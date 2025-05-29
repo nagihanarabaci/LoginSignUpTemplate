@@ -13,11 +13,13 @@ This project demonstrates a **Login** and **Signup** screen built using **Jetpac
 
 ## 📸 Screenshots
 
-### Login Screen
-![Login Screen](https://github.com/nagihanarabaci/LoginSignUpTemplate/blob/main/screenshots/Screenshot_20250528_125242.png)
+## Login Screen
 
-### Signup Screen
-![Signup Screen]([Screenshot_20250529_121539.png](https://github.com/nagihanarabaci/LoginSignUpTemplate/blob/main/screenshots/Screenshot_20250529_121539.png))
+<img src="screenshots/Screenshot_20250528_125242.png" alt="Login Screen" width="300" height="300"/>
+
+## Signup Screen
+
+<img src="screenshots/Screenshot_20250529_121539.png" alt="Signup Screen" width="300" height="300"/>
 
 
 ## 🛠 Built With
